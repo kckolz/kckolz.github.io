@@ -1,0 +1,65 @@
+a {
+  color: #3399f3;
+}
+
+a:hover {
+  color: #000;
+}
+
+.export {
+  margin-top: 18px;
+}
+
+.company img {
+  margin: 10px 0;
+}
+.no-style {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.contact {
+  display: inline;
+}
+
+.position {
+  font-weight: bold;
+}
+
+.github {
+  color: #000;
+}
+
+.linkedin {
+ color: #0077b5;
+}
+
+.unified > a {
+  color: #F27067;
+}
+
+.iseatz > a {
+  color: #dc3a3a;
+}
+
+.geocent > a {
+  color: rgb(137, 197, 91);
+}
+
+.lsu > a {
+  color: #461D7C;
+}
+
+.tech-section-header {
+  text-align: center;
+  font-weight: bold;
+}
+
+.footer {
+  height: 100px;
+}
+
+.job-entry {
+  margin-top: 30px;
+}

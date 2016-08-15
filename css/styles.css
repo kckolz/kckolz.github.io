@@ -12,6 +12,7 @@ a:hover {
 
 .company img {
   margin: 10px 0;
+  max-width: 200px;
 }
 .no-style {
   list-style: none;

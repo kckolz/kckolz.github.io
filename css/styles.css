@@ -57,6 +57,11 @@ a:hover {
   font-weight: bold;
 }
 
+.tech-section-content {
+  display: flex;
+  justify-content: center;
+}
+
 .footer {
   height: 100px;
 }

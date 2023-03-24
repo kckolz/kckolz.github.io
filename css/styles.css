@@ -19,6 +19,13 @@ a:hover {
   padding: 0;
   text-align: center;
 }
+.divider {
+  margin: 15px 0 15px;
+}
+
+.aboutme {
+  margin-top: 15px;
+}
 
 .contact {
   display: inline;
@@ -51,7 +58,12 @@ a:hover {
 .lsu > a {
   color: #461D7C;
 }
-
+.tech-section {
+  margin-top: 30px;
+}
+.tech-section-title {
+  text-align: center;
+}
 .tech-section-header {
   text-align: center;
   font-weight: bold;
